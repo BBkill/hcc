@@ -57,6 +57,8 @@ erDiagram
   DOSSIERS ||--o{ AUDIT_LOGS : "related"
 ```
 
+![Hình ảnh mô tả database](./db_diagram.png)
+
 ### 3.3. Danh sách bảng & mô tả cột (mức logic)
 
 #### 3.3.1. `users` (tài khoản hệ thống)
